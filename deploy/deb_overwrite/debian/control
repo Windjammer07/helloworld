@@ -8,5 +8,5 @@ Standards-Version: 4.5.0
 Package: helloworld
 Architecture: any
 Multi-Arch: foreign
-Depends: ${misc:Depends}, ${shlibs:Depends}, vm
+Depends: ${misc:Depends}, ${shlibs:Depends}, vim
 Description: Example package to demonstrate building debian sorce and binary packages
