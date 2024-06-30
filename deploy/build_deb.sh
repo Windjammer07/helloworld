@@ -1,8 +1,4 @@
 #!/bin/bash
-#
-# .deb package "Chapter 4. Simple Example" automation
-# https://www.debian.org/doc/manuals/debmake-doc/ch04.en.html
-#
 
 VERSION=$1
 

@@ -1,11 +1,11 @@
-Source: test001
+Source: helloworld
 Section: non-free/graphics
 Priority: optional
 Maintainer: Alex <windjammer07@gmail.com>
 Build-Depends: debhelper (>=9), debhelper-compat (=9)
 Standards-Version: 4.5.0
 
-Package: test001
+Package: helloworld
 Architecture: any
 Multi-Arch: foreign
 Depends: ${misc:Depends}, ${shlibs:Depends}
