@@ -1,0 +1,9 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: helloworld
+Source: <url://example.com>
+
+Files:     Makefile
+           src/hello.c
+Copyright: 2024 Alexander <windjammer07@gmail.com>
+License:   Undecided
+
